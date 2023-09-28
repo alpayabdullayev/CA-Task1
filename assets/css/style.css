@@ -196,6 +196,12 @@ header::before{
 
 .fa-arrow-right{
     cursor: pointer;
+
+}
+
+.fa-arrow-right:hover,.btn-learn:hover{
+    margin-left: 10px;
+    transition: all .2s ease-in;
 }
 
 
